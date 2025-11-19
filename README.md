@@ -72,11 +72,8 @@ FlappyBird/
 │   └── sqlite-jdbc.jar
 │
 └── game.db   (auto-generated — ignored by git)
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 75f961fc8d5a5cfb95113a0c349aa27324610367
 
 ---
 
