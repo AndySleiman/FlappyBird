@@ -82,7 +82,7 @@ Requires *JDK 17+* (JDK 22 tested).
 ### 2. Clone the repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/FlappyBird.git
+git clone https://github.com/AndySleiman/FlappyBird.git
 cd FlappyBird
 
 
