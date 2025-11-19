@@ -73,7 +73,6 @@ FlappyBird/
 │
 └── game.db   (auto-generated — ignored by git)
 
-
 ---
 
 ## 🚀 How to Run the Game
