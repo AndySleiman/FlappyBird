@@ -51,28 +51,37 @@ Users can create accounts and automatically save their high scores locally.
 ## 📦 Project Structure
 
 
-FlappyBird/
-├── src/
-│   └── flappyBird/
-│       ├── Main.java
-│       ├── FlappyBird.java
-│       ├── LoginFrame.java
-│       ├── SignupFrame.java
-│       ├── GameFrame.java
-│       └── Database.java
-│
-├── resources/
-│   ├── flappybirdbg.png
-│   ├── flappybird.png
-│   ├── toppipe.png
-│   ├── bottompipe.png
-│   └── floor.png
-│
-├── lib/
-│   └── sqlite-jdbc.jar
-│
-└── game.db   (auto-generated — ignored by git)
+src/flappyBird/
 
+* Main.java
+
+* FlappyBird.java
+
+* LoginFrame.java
+
+* SignupFrame.java
+
+* GameFrame.java
+
+* Database.java
+
+resources/
+
+* flappybirdbg.png
+
+* flappybird.png
+
+* toppipe.png
+
+* bottompipe.png
+
+* floor.png
+
+lib/
+
+* sqlite-jdbc.jar
+
+game.db (auto-generated — ignored by git)
 
 
 ---
