@@ -1,6 +1,6 @@
 # 🐦 Flappy Bird — Java Swing Edition
 
-A fully playable *Flappy Bird* clone written in *Java (Swing)* with a *login system, **SQLite database, **per-user high scores*, and smooth physics.
+A fully playable *Flappy Bird* clone written in *Java (Swing)* with a **login system**, **SQLite database**, **per-user high scores**, and smooth physics.
 
 This project was built entirely from scratch for learning and portfolio purposes.
 
