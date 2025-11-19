@@ -1,0 +1,6 @@
+bin/
+*.log
+.classpath
+.project
+.settings/
+game.db
