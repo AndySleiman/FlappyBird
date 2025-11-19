@@ -1,6 +1,6 @@
 # 🐦 Flappy Bird — Java Swing Edition
 
-A fully playable *Flappy Bird* clone written in *Java (Swing)* with a *login system, **SQLite database, **per-user high scores*, and smooth physics.
+A fully playable *Flappy Bird* clone written in *Java (Swing)* with a **login system**, **SQLite database**, **per-user high scores**, and smooth physics.
 
 This project was built entirely from scratch for learning and portfolio purposes.
 
@@ -72,8 +72,11 @@ FlappyBird/
 │   └── sqlite-jdbc.jar
 │
 └── game.db   (auto-generated — ignored by git)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 75f961fc8d5a5cfb95113a0c349aa27324610367
 
 ---
 
@@ -86,7 +89,7 @@ Requires *JDK 17+* (JDK 22 tested).
 ### 2. Clone the repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/FlappyBird.git
+git clone https://github.com/AndySleiman/FlappyBird.git
 cd FlappyBird
 
 
