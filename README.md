@@ -52,7 +52,7 @@ Users can create accounts and automatically save their high scores locally.
 
 
 FlappyBird/
-├── src/                # All Java source files
+├── src/
 │   └── flappyBird/
 │       ├── Main.java
 │       ├── FlappyBird.java
@@ -60,15 +60,19 @@ FlappyBird/
 │       ├── SignupFrame.java
 │       ├── GameFrame.java
 │       └── Database.java
-├── resources/          # Game assets
+│
+├── resources/
 │   ├── flappybirdbg.png
 │   ├── flappybird.png
 │   ├── toppipe.png
 │   ├── bottompipe.png
-│   ├── floor.png
-├── lib/                # External libraries
+│   └── floor.png
+│
+├── lib/
 │   └── sqlite-jdbc.jar
-└── game.db             # Auto-generated SQLite database (gitignored)
+│
+└── game.db   (auto-generated — ignored by git)
+
 
 
 ---
